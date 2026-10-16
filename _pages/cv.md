@@ -55,18 +55,6 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Patents
-======
-* Page drawing control method, apparatus and device
-* Image processing method and apparatus
-* Vertical sync signal-based control method, and electronic device
-* Picture rendering method, apparatus, electronic device, and storage medium
-
-Honors and Awards
-======
-* **2022 Huawei Team Gold Medal Award**
-  * Recognized for strategic R&D contributions in graphics technologies as part of the Graphics & GUI Lab team.
-
 <!--
 Talks
 ======
