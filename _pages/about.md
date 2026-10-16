@@ -18,10 +18,7 @@ Before returning to academia, I spent more than 14 years at Huawei in graphics a
 - Gaussian Splatting
 - Neural Rendering
 - Efficient 3D Scene Representations
-- GPU-aware Rendering Systems
-- Computer Graphics and 3D Vision
 - Real-time Rendering
-- Memory and Data-layout Optimization
 
 ## Selected Publication
 
@@ -43,7 +40,7 @@ My industry experience continues to shape my research approach, with a strong em
 
 ## Contact
 
-Email: wei.1.tan@aalto.fi
+Email: alex.tan60149@gmail.com
 
 GitHub: [alex-tan-60149](https://github.com/alex-tan-60149)
 
