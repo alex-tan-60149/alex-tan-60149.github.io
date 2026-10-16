@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral Researcher at Aalto University working at the intersection of computer graphics and 3D vision, with a focus on Gaussian Splatting, neural rendering, and efficient GPU-aware algorithms.
+I am a Doctoral Researcher at Aalto University working at the intersection of computer graphics and 3D vision, with a focus on Gaussian Splatting and neural rendering.
 
-My research explores how scene representations, rendering algorithms, and data layouts can be co-designed with modern GPU architectures to improve the efficiency of real-time 3D rendering and novel-view synthesis.
+My research explores architecture-aware algorithms, with particular attention to computational efficiency, memory behavior, and real-time performance on resource-constrained GPUs.
 
 Before returning to academia, I spent more than 14 years at Huawei in graphics and multimedia R&D and technical leadership. I founded and led the Graphics & GUI Lab in Finland, where I worked on rendering engines, graphics technologies, and GUI frameworks for mobile devices.
 
