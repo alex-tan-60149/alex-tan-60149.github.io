@@ -24,6 +24,8 @@ Wei Tan, Matias Turkulainen, Lauri Ilola, Hamed Rezazadegan Tavakoli, Juho Kanna
 *Pacific Graphics 2026, Conference Track*
 
 - [arXiv](https://arxiv.org/abs/2609.03613)
+- [DOI](https://doi.org/10.2312/pg.20261013)
+- [Video](https://www.youtube.com/watch?v=qWZpB10j0BU)
 
 ## Website Structure
 
