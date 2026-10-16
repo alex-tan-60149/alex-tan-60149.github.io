@@ -4,11 +4,11 @@ This repository hosts my personal academic website:
 
 [https://alex-tan-60149.github.io/](https://alex-tan-60149.github.io/)
 
-I am a Doctoral Researcher at Aalto University working at the intersection of computer graphics and 3D vision, with a focus on Gaussian Splatting and neural rendering.
+I am a Doctoral Researcher at Aalto University working at the intersection of computer graphics and 3D vision, with a focus on Gaussian Splatting, neural rendering, and efficient GPU-aware algorithms.
 
-My research explores architecture-aware algorithms, with particular attention to computational efficiency, memory behavior, and real-time performance on resource-constrained GPUs.
+My research explores how scene representations, rendering algorithms, and data layouts interact with modern GPU architectures, with particular attention to computational efficiency, memory behavior, and real-time performance.
 
-Before returning to academia, I spent more than 14 years at Huawei in graphics and multimedia R&D and technical leadership. I founded and led the Graphics & GUI Lab in Finland, where I worked on rendering engines, graphics technologies, and GUI frameworks for mobile devices.
+Before returning to academia, I spent more than 14 years at Huawei in graphics and systems R&D and technical leadership. That experience continues to shape my research approach, particularly my emphasis on architecture-aware algorithm design and system-level performance.
 
 ## Research Interests
 
