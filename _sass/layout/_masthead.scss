@@ -60,9 +60,13 @@
   list-style-type: none;
   white-space: nowrap;
 
+  font-size: 0.9em;
+  font-weight: 500;
+
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-size: 1em;
+    font-weight: 600;
   }
 }
 
