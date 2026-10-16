@@ -43,7 +43,7 @@ Key files and directories:
 - Website: [alex-tan-60149.github.io](https://alex-tan-60149.github.io/)
 - GitHub: [alex-tan-60149](https://github.com/alex-tan-60149)
 - LinkedIn: [Wei Tan](https://www.linkedin.com/in/wei-tan-1705a830/)
-- Email: [alex.tan60149@aalto.fi](mailto:alex.tan60149@aalto.fi)
+- Email: [alex.tan60149@gmail.com](mailto:alex.tan60149@gmail.com)
 
 ## Acknowledgements
 
