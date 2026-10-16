@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Microelectronics**, HUST, September 2004 - March 2007
+* **M.S. in Microelectronics**, Huazhong University of Science and Technology, September 2004 - March 2007
 * **B.S. in Electronic Engineering**, Hunan University, September 2000 - July 2004
 
 Work Experience
