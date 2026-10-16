@@ -17,7 +17,7 @@ Before returning to academia, I spent more than 14 years at Huawei in graphics a
 
 - Gaussian Splatting
 - Neural Rendering
-- Efficient 3D Scene Representations
+- 3D Scene Representation
 - Real-time Rendering
 
 ## Selected Publication
