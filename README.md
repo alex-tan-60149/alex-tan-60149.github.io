@@ -1,21 +1,22 @@
 # Wei Tan — Academic Homepage
 
-This repository hosts my personal academic website:
+Personal academic website of **Wei Tan**, Doctoral Researcher at Aalto University.
 
-[https://alex-tan-60149.github.io/](https://alex-tan-60149.github.io/)
+**Live site:**  
+https://alex-tan-60149.github.io/
 
-I am a Doctoral Researcher at Aalto University working at the intersection of computer graphics and 3D vision, with a focus on Gaussian Splatting, neural rendering, and efficient GPU-aware algorithms.
+My research focuses on computer graphics and 3D vision, particularly Gaussian Splatting, neural rendering, GPU-aware rendering algorithms, and efficient 3D scene representations.
 
-My research explores how scene representations, rendering algorithms, and data layouts interact with modern GPU architectures, with particular attention to computational efficiency, memory behavior, and real-time performance.
+## Website Content
 
-Before returning to academia, I spent more than 14 years at Huawei in graphics and systems R&D and technical leadership. That experience continues to shape my research approach, particularly my emphasis on architecture-aware algorithm design and system-level performance.
-
-## Research Interests
-
-- Gaussian Splatting
-- Neural Rendering
-- 3D Scene Representations
-- Real-Time Rendering
+- **Homepage:** `_pages/about.md`
+- **CV:** `_pages/cv.md`
+- **Publications page:** `_pages/publications.html`
+- **Publication entries:** `_publications/`
+- **Navigation:** `_data/navigation.yml`
+- **Site configuration:** `_config.yml`
+- **Images:** `images/`
+- **Styling:** `_sass/`
 
 ## Selected Publication
 
@@ -27,27 +28,28 @@ Wei Tan, Matias Turkulainen, Lauri Ilola, Hamed Rezazadegan Tavakoli, Juho Kanna
 - [DOI](https://doi.org/10.2312/pg.20261013)
 - [Video](https://www.youtube.com/watch?v=qWZpB10j0BU)
 
-## Website Structure
+## Local Preview
 
-The website is built with [Academic Pages](https://github.com/academicpages/academicpages.github.io), a Jekyll-based academic website template.
+This website is based on [Academic Pages](https://github.com/academicpages/academicpages.github.io) and built with Jekyll.
 
-Key files and directories:
+To preview the site locally:
 
-- `_pages/about.md` — homepage
-- `_pages/cv.md` — curriculum vitae
-- `_pages/publications.html` — publications page
-- `_publications/` — individual publication entries
-- `_data/navigation.yml` — top navigation
-- `_config.yml` — site-wide configuration
-- `images/` — profile photo and other images
-- `_sass/` — visual styling and typography
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-## Contact
+Then open:
 
-- Website: [alex-tan-60149.github.io](https://alex-tan-60149.github.io/)
-- GitHub: [alex-tan-60149](https://github.com/alex-tan-60149)
-- LinkedIn: [Wei Tan](https://www.linkedin.com/in/wei-tan-1705a830/)
-- Email: [alex.tan60149@gmail.com](mailto:alex.tan60149@gmail.com)
+```text
+http://localhost:4000
+```
+
+## Links
+
+- [Homepage](https://alex-tan-60149.github.io/)
+- [GitHub](https://github.com/alex-tan-60149)
+- [LinkedIn](https://www.linkedin.com/in/wei-tan-1705a830/)
 
 ## Acknowledgements
 
