@@ -1,64 +1,86 @@
+```markdown
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Experience
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Aalto University
+**Doctoral Researcher**  
+Espoo, Finland  
+*September 2025 – Present*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Researching Gaussian Splatting and neural rendering for real-time scene reconstruction and novel-view synthesis.
+- Designing architecture-aware rendering algorithms with emphasis on computational efficiency, memory behavior, and real-time GPU performance.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Huawei
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#### Principal Engineer
+Shanghai, China  
+*January 2024 – October 2024*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Drove advanced R&D in graphics systems and GPU rendering, focusing on performance and efficiency on consumer devices.
+- Led architecture exploration and technical innovation across graphics technologies, bridging research ideas with practical system-level solutions.
+
+#### Technical Director
+Helsinki, Finland  
+*November 2020 – December 2023*
+
+- Founded and led the **Graphics & GUI Lab in Finland**, defining its technical direction and building a multidisciplinary R&D team.
+- Led development of an in-house graphics software stack spanning rendering engines, graphics toolkits, and GUI frameworks for consumer devices.
+- Delivered multiple strategic R&D breakthroughs, with the team recognized by Huawei's **Gold Medal Team Award**.
+
+#### Director of Graphics TMG
+Shanghai, China  
+*September 2018 – October 2020*
+
+- Directed the Graphics TMG and shaped technology strategy and long-term R&D priorities across graphics and user-interface technologies.
+- Coordinated technology development across teams, aligning research, engineering, and product requirements.
+
+#### Team Lead
+Shanghai, China  
+*August 2010 – August 2018*
+
+- Led engineering teams across embedded systems, display drivers, camera and multimedia, graphics, and GUI technologies for consumer devices.
+- Drove system architecture, development, optimization, integration, and product delivery, with a strong focus on performance and engineering quality.
+
+### Chiefree & iTouch
+**Software Engineer**  
+Shanghai, China  
+*October 2006 – July 2010*
+
+- Developed platform software across camera, multimedia, display, and graphics for consumer devices.
+- Optimized system performance and integration across RTOS, middleware, and SoC components.
+- Worked on low-level system integration, debugging, and performance optimization.
+
+---
+
+## Education
+
+### HUST
+**Master of Science (M.S.), Microelectronics**  
+*September 2004 – March 2007*
+
+### Nunan University
+**Bachelor of Science (B.S.), Electronic Engineering**  
+*September 2000 – July 2004*
+
+### Yali High School
+**High School Diploma**  
+*September 1997 – July 2000*
+
+---
+
+## Publications
+
+### TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization
+
+**Wei Tan**, Matias Turkulainen, Lauri Ilola, Hamed Rezazadegan Tavakoli, Juho Kannala  
+*Pacific Graphics 2026, Conference Track*
+
+[Publication details](/publication/2026-tilegs) · [arXiv](https://arxiv.org/abs/2609.03613)
+
+---
