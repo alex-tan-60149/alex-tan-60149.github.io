@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * **M.S. in Microelectronics**, HUST, September 2004 - March 2007
-* **B.S. in Electronic Engineering**, Nunan University, September 2000 - July 2004
+* **B.S. in Electronic Engineering**, Hunan University, September 2000 - July 2004
 
 Work Experience
 ======
