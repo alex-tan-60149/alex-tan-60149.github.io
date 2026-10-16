@@ -19,34 +19,21 @@ Work Experience
 * **September 2025 - Present: Doctoral Researcher**
   * Aalto University, Espoo, Finland
   * Researching Gaussian Splatting and neural rendering for real-time scene reconstruction and novel-view synthesis.
-  * Designing architecture-aware rendering algorithms with emphasis on computational efficiency, memory behavior, and real-time GPU performance.
+  * Developing architecture-aware rendering algorithms with emphasis on computational efficiency, memory behavior, and real-time GPU performance.
 
-* **January 2024 - October 2024: Principal Engineer**
-  * Huawei, Shanghai, China
-  * Drove advanced R&D in graphics systems and GPU rendering, focusing on performance and efficiency on consumer devices.
-  * Led architecture exploration and technical innovation across graphics technologies, bridging research ideas with practical system-level solutions.
-
-* **November 2020 - December 2023: Technical Director**
-  * Huawei, Helsinki, Finland
-  * Founded and led the Graphics & GUI Lab in Finland, defining its technical direction and building a multidisciplinary R&D team.
-  * Led the development of an in-house graphics software stack spanning rendering engines, graphics toolkits, and GUI frameworks for consumer devices.
-  * Delivered multiple strategic R&D breakthroughs, with the team recognized by Huawei's Gold Medal Team Award.
-
-* **September 2018 - October 2020: Director of Graphics TMG**
-  * Huawei, Shanghai, China
-  * Directed the Graphics TMG, shaping technology strategy and long-term R&D priorities across graphics and user-interface technologies.
-  * Coordinated technology development across teams, aligning research, engineering, and product requirements.
-
-* **August 2010 - August 2018: Team Lead**
-  * Huawei, Shanghai, China
-  * Led engineering teams across embedded systems, display drivers, camera and multimedia, graphics, and GUI technologies for consumer devices.
-  * Drove architecture, development, optimization, integration, and product delivery, with a strong focus on system performance and engineering quality.
+* **August 2010 - October 2024: R&D and Technical Leadership**
+  * Huawei, Shanghai, China & Helsinki, Finland
+  * Progressed through technical and leadership roles including **Team Lead, Director of Graphics TMG, Technical Director, and Principal Engineer**.
+  * Led R&D in computer graphics, GPU rendering, multimedia, GUI frameworks, and graphics-system architecture for consumer devices.
+  * Founded and led Huawei's **Graphics & GUI Lab in Finland**, defining its technical direction and building a multidisciplinary R&D team.
+  * Led the development of an in-house graphics software stack spanning rendering engines, graphics toolkits, and GUI frameworks.
+  * Drove architecture exploration, performance optimization, and system-level innovation, bridging research ideas with practical product and platform requirements.
+  * Delivered multiple strategic R&D breakthroughs; the team was recognized with Huawei's **Gold Medal Team Award**.
 
 * **October 2006 - July 2010: Software Engineer**
   * iTouch & Chiefree, Shanghai, China
-  * Developed platform software across camera, multimedia, display, and graphics for consumer devices.
-  * Optimized system performance and integration across RTOS, middleware, and SoC components.
-  * Worked on low-level system integration, debugging, and performance optimization.
+  * Developed embedded and platform software across graphics, display, camera, and multimedia systems for consumer devices.
+  * Worked on device drivers, RTOS and middleware integration, system debugging, and performance optimization.
 
 Publications
 ======
