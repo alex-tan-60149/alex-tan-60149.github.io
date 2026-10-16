@@ -1,5 +1,3 @@
-```markdown
----
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -68,4 +66,3 @@ Teaching
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 -->
-```
